@@ -36,7 +36,7 @@ A modern authentication template built with **Vue 3**, **Vite**, **Tailwind CSS*
 1. Clone this repository.
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/vue-supabase-auth-template.git
+   git clone https://github.com/Istianqt/vue-supabase-auth-template.git
    ```
 
 2. Navigate to the project folder.
