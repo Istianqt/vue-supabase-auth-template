@@ -5,7 +5,8 @@ import { supabase } from "../lib/supabase";
 
 import {
   XCircle
-} from "lucide-vue-next";
+} from "@lucide/vue";
+
 
 
 const router = useRouter();
