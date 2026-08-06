@@ -7,7 +7,7 @@ import {
   CheckCircle,
   AlertCircle,
   XCircle
-} from "lucide-vue-next";
+} from '@lucide/vue';
 
 
 const router = useRouter();
